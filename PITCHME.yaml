@@ -1,0 +1,9 @@
+#テーマの設定
+theme : sky
+
+#フットノートの設定
+footnote : "2017 Inazou Award"
+
+
+#スライドのページ数表示の設定
+slide-number: true
