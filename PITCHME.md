@@ -24,9 +24,11 @@ SNSによる風評被害、無断キャンセルによる予期せぬ被害を�
 ---
 ###　SNSの風評被害
  
- 
+- スタッフの悪ふざけ
+![Twitter上にあっぷされた画像](sns_fuzake.PNG)
+http://www.asagei.com/excerpt/36818
 <div style="text-align: center;">
-調査中
+
 </div>
 
 ---
@@ -58,9 +60,13 @@ SNSによる風評被害により閉店に追い込まれかねない甚大な�
 ---
 ### 競合サービス
 - 予約キャンセルデータベース(無料)
-大人数でドタキャンなどの電話番号が登録されている
+大人数でドタキャンした人の電話番号が登録されている  
 http://yoyakucancel.com/
-
+- キャンセル見舞金サービス(飲食店向けインターネット予約サービスの「トレタ」)
+キャンセルや急な休業時に1万円を年3会まで支給
+https://corp.toreta.in/news/2017-02-09/
+- ネット情報参謀セイメイ(誹謗中傷対策とネット炎上対策をサポート)
+https://fuhyo-sos.com/reason-reputational-measures-necessary/
 ---
 
 ###　ご清聴ありがとうございました
