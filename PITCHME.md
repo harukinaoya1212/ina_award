@@ -20,10 +20,9 @@ SNSによる風評被害、無断キャンセルによる予期せぬ被害を�
 ###　無断キャンセルの被害
  
  
-<div style="text-align: center;">
-調査中
-</div>
-
+- 4000円×20名のキャンセル(被害額8万円)  
+![無断キャンセル](mudan.png)
+用意した食材も無駄になってしまうが、その時間の人件費、他の予約を入れられなどで、それ以上の損失となってしまう。
 ---
 ###　SNSの風評被害
  
@@ -69,6 +68,9 @@ http://yoyakucancel.com/
 https://corp.toreta.in/news/2017-02-09/
 - ネット情報参謀セイメイ(誹謗中傷対策とネット炎上対策をサポート)
 https://fuhyo-sos.com/reason-reputational-measures-necessary/
+- クレジットによる事前支払いサービス(Tablesolution)
+https://www.tablesolution.com/
+<!-- 既に色々とサービスが存在するが、全て網羅したものは私の調査した感じでは見当たりませんでした -->
 ---
 
 ###　ご清聴ありがとうございました
