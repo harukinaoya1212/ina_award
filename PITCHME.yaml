@@ -7,3 +7,5 @@ footnote : "2017 Inazou Award"
 
 #スライドのページ数表示の設定
 slide-number: true
+
+transition : fade
