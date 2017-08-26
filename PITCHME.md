@@ -2,7 +2,7 @@
   
   
 <div align="center"> 
-![](コック.jpg = 200x200)
+![](コック.jpg)
 </div>
 <div style="text-align: right;">
 2017/8/31 春木直也
