@@ -6,7 +6,7 @@
 </div>
 -->
 <div align="center"> 
-<img src="cock.jpg" width="140" height="160" style="border-style:none;">
+<img src="cock.jpg" width="160" height="180" style="border-style:none;">
 <div>
 <div style="text-align: right;">
 2017/8/31 春木直也
