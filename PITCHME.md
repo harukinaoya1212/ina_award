@@ -1,9 +1,13 @@
 ###　飲食店向け総合サポートサービス
   
-  
+<!--  
 <div align="center"> 
 ![](コック.jpg)
 </div>
+-->
+<div align="center"> 
+<img src="../../コック.jpg" width="140" height="53" border="0">
+<div>
 <div style="text-align: right;">
 2017/8/31 春木直也
 </div>
